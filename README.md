@@ -75,5 +75,5 @@ This project aims to predict customer churn using historical data of a telecom c
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/yourusername">Your Name</a>
+  Made with ❤️ by <a href="https://github.com/yourusername">Akash</a>
 </p>
